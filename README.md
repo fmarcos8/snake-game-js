@@ -2,7 +2,7 @@
 
 Este é um jogo da cobrinha simples criado como um projeto de aprendizado. Ele foi desenvolvido utilizando JavaScript para a lógica do jogo e o elemento `<canvas>` do HTML para renderizar os gráficos.
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
 
 ## Funcionalidades
 
